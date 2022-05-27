@@ -1,1 +1,1 @@
-este es un pokemon volador
+este es un pokemon volador, es un ave 
